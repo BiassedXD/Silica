@@ -1,0 +1,11 @@
+{
+    "name": "Biassedmodz",
+    "description": "A repo for my obj-c and c++ code!",
+    "tint": "  c",
+    "cname": "",
+    "maintainer": {
+        "name": "BiassedMods",
+        "email": "biassedfiber@gmail.com"
+    },
+    "automatic_git": "true"
+}
